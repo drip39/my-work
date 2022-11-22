@@ -1,0 +1,8 @@
+from turtle import*
+
+s=screen()
+s.sccreensize(700,1000)
+speed(5)
+def myposition(x,y):
+penup()
+goto(x,y)
